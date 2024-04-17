@@ -12,12 +12,36 @@ Or you can clone the project by copying ("https://github.com/akakran22/candidate
 
 Like  ->  git clone "https://github.com/akakran22/candidate-shortlisting-system.git"
 
+
+
 Step-2 
 
 
+Libraries Used or You have to install (using pip install library_name) :
 
 
-Libraries Used or You have to install (using pip install library_name)
+
+-re    (pip install re)
+-PyPDF2 
+-spacy
+-sumy
+-os and csv
+
+
+
+Step-3
+
+
+delete the given csv file 
+
+
+In main.py file change the path of folder_path according to your pc
+
+
+Step-4
+Run the main.py 
+It will create the csv file in which you will get the data of the candidate
+
 
 
  
