@@ -20,12 +20,14 @@ Step-2
 Libraries Used or You have to install (using pip install library_name) :
 
 
+pip install re,PyPDF,spacy,sumy
 
--re    (pip install re)
--PyPDF2 
--spacy
--sumy
--os and csv
+
+-re , 
+-PyPDF2 , 
+-spacy ,
+-sumy ,
+-os and csv 
 
 
 
